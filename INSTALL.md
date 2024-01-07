@@ -54,7 +54,7 @@ python -m pip install -r requirements310.txt
 ```
 
 ## Install the kernel for your jupyter notebook
-In some circumstances, your kernel and installed packages may not match what you expect in jupyter lab. To solve this, we install a kernel from within the python38 env (make sure you have typed `conda activate cs4262` first...)
+In some circumstances, your kernel and installed packages may not match what you expect in jupyter lab. To solve this, we install a kernel from within the cs4262 env (make sure you have typed `conda activate cs4262` first...)
 ```
 python -m ipykernel install --user --name=cs4262
 ```
