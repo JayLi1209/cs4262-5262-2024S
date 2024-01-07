@@ -1,0 +1,15 @@
+keras
+pandas
+matplotlib
+notebook
+jupyterlab
+ipykernel
+scipy
+numpy
+seaborn
+pillow
+tensorflow
+torch
+scikit-learn
+scikit-image
+
